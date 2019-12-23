@@ -1,0 +1,19 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-title>
+            Tab Two
+        </ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+    Missing attestations:
+    <pre>
+    {{missingAttestations}}
+  </pre>
+    <br>
+    <ion-button color="primary" expand="full" (click)="giveConsent()">Give consent</ion-button>
+    <ion-button color="danger" expand="full" (click)="dismissModal()">Give NO consent</ion-button>
+
+</ion-content>
