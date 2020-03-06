@@ -34,7 +34,7 @@
     "ula-vc-data-management": "^0.1.0",
     "ula-vp-controller": "^0.1.0",
     "universal-ledger-agent": "^0.1.1",
-    "vp-toolkit": "^0.1.0",
+    "vp-toolkit": "^0.2.2",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
